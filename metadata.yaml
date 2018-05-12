@@ -1,0 +1,32 @@
+_repo: The-House-of-Rimmon--A-Drama-in-Four-Acts_17944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naaman, the Syrian -- Drama'
+- !lcc 'PS'
+- !lcsh 'Religious drama, American'
+title: 'The House of Rimmon: A Drama in Four Acts'
+url: http://www.gutenberg.org/ebooks/17944
